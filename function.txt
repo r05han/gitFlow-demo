@@ -1,2 +1,3 @@
 - basic functions.
 - add features via feature.txt.
+- add release notes.
